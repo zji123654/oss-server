@@ -206,6 +206,8 @@ material.invokingRoot=http://192.168.0.7/
 3. 提交代码
 4. 新建 Pull Request
 
+测试
+
 ## 交流
 
 ![](static/wechat.jpg)
